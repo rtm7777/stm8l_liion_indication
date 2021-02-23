@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "./STM8-SPL-SDCC/Libraries/STM8S_StdPeriph_Driver/inc",
+                "/usr/src"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/bin/sdcc",
+            "cStandard": "c11",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
